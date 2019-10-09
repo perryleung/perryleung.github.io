@@ -1,2 +1,2 @@
 # perryleung.github.io
-ｐｅｒsonal homepage &amp; blog
+personal homepage &amp; blog
